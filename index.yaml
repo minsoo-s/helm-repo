@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  hdfs:
+  - apiVersion: v2
+    appVersion: 3.2.2
+    created: "2023-05-24T03:29:23.195565945-04:00"
+    description: The Apache Hadoop software library is a framework that allows for
+      the distributed processing of large data sets across clusters of computers using
+      simple programming models.
+    digest: 432f68186a9b16d30b26dde4ff7ca3a989d1aea34d51f37ac6089be77056d22b
+    home: https://hadoop.apache.org/
+    icon: http://hadoop.apache.org/images/hadoop-logo.jpg
+    maintainers:
+    - email: ricardo.seider@diemehrwertmacher.de
+      name: rcreate
+      url: https://www.diemehrwertmacher.de
+    name: hdfs
+    sources:
+    - https://github.com/apache/hadoop
+    urls:
+    - hdfs-1.0.1.tgz
+    version: 1.0.1
+generated: "2023-05-24T03:29:23.193970271-04:00"
